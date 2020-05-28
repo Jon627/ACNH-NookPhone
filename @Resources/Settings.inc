@@ -25,9 +25,9 @@ AppImage=#@#Images\placeholder-icon.png
 AppName=NookPhone
 AppPath=C:\
 
-App2Image=#@#Images\placeholder-icon.png
-App2Name=NookPhone
-App2Path=C:\
+App2Image=#@#Images\discord.png
+App2Name=Discord
+App2Path=C:\Users\princ\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc\Discord.lnk
 
 App3Image=#@#Images\placeholder-icon.png
 App3Name=NookPhone
